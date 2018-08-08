@@ -1,1 +1,1 @@
-cs231n assignements
+cs231n assignments
